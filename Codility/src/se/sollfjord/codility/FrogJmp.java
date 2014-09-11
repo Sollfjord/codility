@@ -1,4 +1,4 @@
-package se.sollfjord.codility.frogjmp;
+package se.sollfjord.codility;
 
 public class FrogJmp {
 	
