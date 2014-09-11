@@ -16,7 +16,7 @@ public class PermMissingElem {
         return (int) (sumPerm - sum);
     }
     
-    //should be used to avoid overflow due too large sums   
+    //should be used to avoid overflow due to too large sums   
     public int bigIntegerSolution(int[] A) {
 
         BigInteger[] B = new BigInteger[A.length];
